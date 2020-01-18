@@ -1,0 +1,13 @@
+{
+  "name": "1-18-20",
+  "version": "1.0.0",
+  "description": "1-18-20 Practice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Spencer Hirata",
+  "license": "ISC"
+}
