@@ -2,4 +2,4 @@
 
 ## Technologies used:
 
-- Materialize CDN hookup
+- Materialize Cards
